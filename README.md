@@ -1,7 +1,9 @@
-# Self Introduction
+#  Introduction
 
-Currently a last semster student in Concordia University in Cs
+:school: Currently a last semster student in Concordia University in Cs - 2023
 
-Software Experience Intern in Shanghai.
+:office: Software Intern experience in Shanghai - 2021
 
-Looking for opportunities in Ca.
+:relaxed: Do development for non-profit oraganization - huaman project in Ca - 2023
+
+Looking for developer opportunities in Ca.
