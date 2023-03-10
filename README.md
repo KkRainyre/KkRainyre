@@ -4,6 +4,6 @@
 
 :office: Software Intern experience in Shanghai - 2021
 
-:relaxed: Do development for non-profit oraganization - huaman project in Ca - 2023
+:relaxed: Do development for non-profit oraganization - huaman project in CA - 2023
 
 Looking for developer opportunities in Canada and China.
