@@ -6,4 +6,4 @@
 
 :relaxed: Do development for non-profit oraganization - huaman project in Ca - 2023
 
-Looking for developer opportunities in Ca.
+Looking for developer opportunities in Canada and China.
