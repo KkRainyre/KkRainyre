@@ -9,5 +9,5 @@ Subtitle
 
 🔭 I’m currently working on non-profit oraganization - huaman project in CA - 2023
 
-:Subtitle
+
 Programming Languages:
