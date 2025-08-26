@@ -7,5 +7,3 @@ Subtitle
 
 :office: Software Intern experience in Shanghai - 2021
 
-
-Programming Languages:
