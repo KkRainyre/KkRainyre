@@ -7,7 +7,5 @@ Subtitle
 
 :office: Software Intern experience in Shanghai - 2021
 
-🔭 I’m currently working on non-profit oraganization - huaman project in CA - 2023
-
 
 Programming Languages:
