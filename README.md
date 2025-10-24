@@ -1,7 +1,7 @@
 #  👋Hi I'm Marco 
 
 Subtitle
- A passionate developer and explorer of the world
+ A passionate JAVA developer and explorer of the world
  
 :interrobang:	Seeking an opportunity in Montreal - 2025
  
